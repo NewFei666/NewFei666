@@ -10,3 +10,7 @@
   <a href="https://newfei.top"><img src="https://raw.githubusercontent.com/NewFei666/CDN/a5b167157f92a3275ede84dce342a296d42ebcdd/website.svg" width="185px"/></a>
   </br></br></br>
 </p>
+<p align="center"> 
+  Visitor count</br>
+  <img src="https://profile-counter.glitch.me/solstice23/count.svg" />
+</p>
