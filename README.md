@@ -1,10 +1,9 @@
 # Hi there 👋
-<h1 align="center">
-  </br>
+<p align="center">
   <img src="https://raw.githubusercontent.com/NewFei666/CDN/main/avatar.jpg" alt="Clash" width="200">
   <br>
   New_fei
-</h1>
+</p>
 <p align="center"> 
   </br>
   <a href="https://t.me/newfei"><img src="https://raw.githubusercontent.com/NewFei666/CDN/a5b167157f92a3275ede84dce342a296d42ebcdd/telegram.svg" width="210px"/></a>
