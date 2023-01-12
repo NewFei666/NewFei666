@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/NewFei666/CDN/main/avatar.jpg" alt="Clash" width="200">
   <br>
-  # New_fei
+# New_fei
 </p>
 <p align="center"> 
   </br>
